@@ -39,12 +39,12 @@
 				echo $this->menu()->getFrontMenu(WEB_LANG, 'class="nav ownmenu"', 'class="dropdown"', 'class="dropdown"');
 			?>
           <!-- Search -->
-          <div class="search-icon"> <a href="#."><i class="fa fa-search"></i></a>
-            <form>
-              <input class="form-control" type="search" placeholder="Type Here">
-              <button type="submit"><i class="fa fa-search"></i></button>
-            </form>
-          </div>
+<!--          <div class="search-icon"> <a href="#."><i class="fa fa-search"></i></a>-->
+<!--            <form>-->
+<!--              <input class="form-control" type="search" placeholder="Type Here">-->
+<!--              <button type="submit"><i class="fa fa-search"></i></button>-->
+<!--            </form>-->
+<!--          </div>-->
         </div>
       </div>
     </nav>
