@@ -10,7 +10,7 @@ define('CONF_VER', $site['ver']);
 define('CONF_BUILD', $site['build']);
 define('CONF_RELEASE', $site['release']);
 
-$site['url'] = "http://localhost/hokya/";
+$site['url'] = "http://honk.local";
 $site['adm'] = "panel";
 $site['con'] = "core";
 $site['inc'] = "inc";
@@ -38,6 +38,8 @@ define('DATABASE_NAME', $db['db']);
 
 $site['vqmod'] = false;
 $site['timezone'] = "Asia/Jakarta";
+$site['permalink'] = "slug/post-title";
+$site['slug_permalink'] = "article";
 
 define('VQMOD', $site['vqmod']);
 define('TIMEZONE', $site['timezone']);
