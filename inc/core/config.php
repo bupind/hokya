@@ -10,7 +10,7 @@ define('CONF_VER', $site['ver']);
 define('CONF_BUILD', $site['build']);
 define('CONF_RELEASE', $site['release']);
 
-$site['url'] = "http://honk.local";
+$site['url'] = "http://honk.local/";
 $site['adm'] = "panel";
 $site['con'] = "core";
 $site['inc'] = "inc";
