@@ -15,13 +15,16 @@
     </ul>
   </section>
 <div id="content">
-    <section class="counter padding-top-50 padding-bottom-50">
+    <section class="counter padding-top-10 padding-bottom-10">
         <div class="container">
 
             <!-- Team Member -->
             <ul class="row">
                 <li class="col-md-2">
                     <div class="count">
+                        <a href="#" title="Visit the Director website" target="_blank" rel="nofollow">
+                            <img class="right director" src="/DesktopModules/IoD/ThemeObjects/Images/Director.png" alt="Director Magazine Logo">
+                        </a>
                     </div>
                 </li>
                 <li class="col-md-2">
